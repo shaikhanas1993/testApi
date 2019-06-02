@@ -1,0 +1,14 @@
+/home/anas/Code/testapi/bin/Debug/netcoreapp2.1/testapi.deps.json
+/home/anas/Code/testapi/bin/Debug/netcoreapp2.1/testapi.runtimeconfig.json
+/home/anas/Code/testapi/bin/Debug/netcoreapp2.1/testapi.runtimeconfig.dev.json
+/home/anas/Code/testapi/bin/Debug/netcoreapp2.1/testapi.dll
+/home/anas/Code/testapi/bin/Debug/netcoreapp2.1/testapi.pdb
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.csprojAssemblyReference.cache
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.csproj.CoreCompileInputs.cache
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.RazorAssemblyInfo.cache
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.RazorAssemblyInfo.cs
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.AssemblyInfoInputs.cache
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.AssemblyInfo.cs
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.RazorTargetAssemblyInfo.cache
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.dll
+/home/anas/Code/testapi/obj/Debug/netcoreapp2.1/testapi.pdb
